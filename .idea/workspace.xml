@@ -2,17 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa80ee1-2ef8-4899-9682-5dd6bd67038f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_test_codes/basket_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/15_sql_integrate/sql_basic_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/15_sql_integrate/sql_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/15_sql_integrate/sql_integrate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/16_supply_chain/supply_chain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/17_CSV_HTML/super_code_data_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/18_pizzeria/pizzeria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/2_Diego/count_1_to_100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/2_Diego/print_Fizz_every_3_times.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/8_linear_regression/Welcome Linear Regression.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/8_linear_regression/linear_regression_TV_radio_newspaper_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/10_twitter_sentiment/twitter_sentiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/10_twitter_sentiment/twitter_sentiment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/13_arup_group/EV_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/13_arup_group/EV_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/13_arup_group/ev_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/13_arup_group/ev_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/1_test_codes/test_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/1_test_codes/test_codes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/2_Diego/Diego.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/2_Diego/Diego.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/3_basket_analysis/basket_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/3_basket_analysis/basket_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/8_linear_regression/linear.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/8_linear_regression/linear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/ChargingStations_GB.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/advertising.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/corpus_file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/instacart_2017_05_01/aisles.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/instacart_2017_05_01/departments.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/instacart_2017_05_01/order_products__prior.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/instacart_2017_05_01/order_products__train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/instacart_2017_05_01/orders.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/instacart_2017_05_01/products.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python" />
@@ -30,35 +60,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/1_test_codes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Diego Alves\Desktop\Python_tutorial\1_test_codes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_codes">
-    <configuration name="Basket_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_test_codes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_test_codes/Basket_analysis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.linear">
     <configuration name="Diego" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +90,154 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_codes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EV_dataset" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/13_arup_group" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/13_arup_group/EV_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ev_codes" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/13_arup_group" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/13_arup_group/ev_codes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linear" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/8_linear_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/8_linear_regression/linear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linear_regression_TV_radio_newspaper_ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/8_linear_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/8_linear_regression/linear_regression_TV_radio_newspaper_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linear_regression_TV_radio_newspaper_" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/8_linear_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Diego Alves\Desktop\Python\8_linear_regression\linear_regression_TV_radio_newspaper_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pizzeria" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/18_pizzeria" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/18_pizzeria/pizzeria.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sql_integrate" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/15_sql_integrate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/15_sql_integrate/sql_integrate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_codes" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,27 +258,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_codes.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Python_tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_test_codes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/1_test_codes/test_codes.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_codes" />
         <item itemvalue="Python.Diego" />
-        <item itemvalue="Python tests.pytest in test_codes.py" />
-        <item itemvalue="Python.Basket_analysis" />
+        <item itemvalue="Python.linear_regression_TV_radio_newspaper_ (1)" />
+        <item itemvalue="Python.pizzeria" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579967690018</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tutorial">
+      <created>1579968721985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579968721985</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,33 +323,112 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="22" key="#Basket_analysis/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579967848154" />
-    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1579967689210">
+    <state x="361" y="72" key="#Inspections" timestamp="1580174745389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579967689210" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1579967337299">
+    <state x="361" y="72" key="#Inspections/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580174745389" />
+    <state x="475" y="-814" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582214791155">
+      <screen x="221" y="-900" width="1600" height="860" />
+    </state>
+    <state x="475" y="-814" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582214791155" />
+    <state x="510" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580744488348">
+      <screen x="0" y="42" width="1536" height="782" />
+    </state>
+    <state x="510" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580156950570" />
+    <state x="510" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1580744488348" />
+    <state x="517" y="250" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580145999680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579967337299" />
-    <state width="757" height="210" key="GridCell.Tab.0.bottom" timestamp="1579968034499">
+    <state x="517" y="250" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580145999680" />
+    <state x="740" y="-860" key="#ev_codes" timestamp="1582214841508">
+      <screen x="221" y="-900" width="1600" height="860" />
+    </state>
+    <state x="740" y="-860" key="#ev_codes/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582214841508" />
+    <state x="740" y="-860" key="#linear_regression_EV" timestamp="1582214877959">
+      <screen x="221" y="-900" width="1600" height="860" />
+    </state>
+    <state x="740" y="-860" key="#linear_regression_EV/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582214877959" />
+    <state x="496" y="22" key="#sql_integrate" timestamp="1580159135856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579968034499" />
-    <state width="757" height="210" key="GridCell.Tab.0.center" timestamp="1579968034498">
+    <state x="496" y="22" key="#sql_integrate/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580159135856" />
+    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1579968721326">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.center/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579968034498" />
-    <state width="757" height="210" key="GridCell.Tab.0.left" timestamp="1579968034498">
+    <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579968721326" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1580145507565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.left/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579968034498" />
-    <state width="757" height="210" key="GridCell.Tab.0.right" timestamp="1579968034498">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580145507564" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1580145990475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.right/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579968034498" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579968624517">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580145990475" />
+    <state width="1356" height="170" key="GridCell.Tab.0.bottom" timestamp="1583592303330">
+      <screen x="221" y="-900" width="1600" height="860" />
+    </state>
+    <state width="1309" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1581784862191" />
+    <state width="1356" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583592303330" />
+    <state width="1303" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583149625176" />
+    <state width="1303" height="161" key="GridCell.Tab.0.bottom/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1583095199477" />
+    <state width="1356" height="170" key="GridCell.Tab.0.bottom/0.42.1536.782/221.-900.1600.860@221.-900.1600.860" timestamp="1583592034241" />
+    <state width="1305" height="161" key="GridCell.Tab.0.bottom/0.80.1536.744/221.-900.1600.860@0.80.1536.744" timestamp="1582328926773" />
+    <state width="1360" height="161" key="GridCell.Tab.0.bottom/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582550501087" />
+    <state width="1356" height="170" key="GridCell.Tab.0.center" timestamp="1583592303329">
+      <screen x="221" y="-900" width="1600" height="860" />
+    </state>
+    <state width="1309" height="161" key="GridCell.Tab.0.center/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1581784862191" />
+    <state width="1356" height="170" key="GridCell.Tab.0.center/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583592303329" />
+    <state width="1303" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583149625175" />
+    <state width="1303" height="161" key="GridCell.Tab.0.center/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1583095199477" />
+    <state width="1356" height="170" key="GridCell.Tab.0.center/0.42.1536.782/221.-900.1600.860@221.-900.1600.860" timestamp="1583592034241" />
+    <state width="1305" height="161" key="GridCell.Tab.0.center/0.80.1536.744/221.-900.1600.860@0.80.1536.744" timestamp="1582328926773" />
+    <state width="1360" height="161" key="GridCell.Tab.0.center/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582550501087" />
+    <state width="1356" height="170" key="GridCell.Tab.0.left" timestamp="1583592303329">
+      <screen x="221" y="-900" width="1600" height="860" />
+    </state>
+    <state width="1309" height="161" key="GridCell.Tab.0.left/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1581784862191" />
+    <state width="1356" height="170" key="GridCell.Tab.0.left/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583592303329" />
+    <state width="1303" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583149625175" />
+    <state width="1303" height="161" key="GridCell.Tab.0.left/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1583095199477" />
+    <state width="1356" height="170" key="GridCell.Tab.0.left/0.42.1536.782/221.-900.1600.860@221.-900.1600.860" timestamp="1583592034241" />
+    <state width="1305" height="161" key="GridCell.Tab.0.left/0.80.1536.744/221.-900.1600.860@0.80.1536.744" timestamp="1582328926772" />
+    <state width="1360" height="161" key="GridCell.Tab.0.left/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582550501087" />
+    <state width="1356" height="170" key="GridCell.Tab.0.right" timestamp="1583592303330">
+      <screen x="221" y="-900" width="1600" height="860" />
+    </state>
+    <state width="1309" height="161" key="GridCell.Tab.0.right/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1581784862191" />
+    <state width="1356" height="170" key="GridCell.Tab.0.right/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583592303330" />
+    <state width="1303" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583149625175" />
+    <state width="1303" height="161" key="GridCell.Tab.0.right/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1583095199477" />
+    <state width="1356" height="170" key="GridCell.Tab.0.right/0.42.1536.782/221.-900.1600.860@221.-900.1600.860" timestamp="1583592034241" />
+    <state width="1305" height="161" key="GridCell.Tab.0.right/0.80.1536.744/221.-900.1600.860@0.80.1536.744" timestamp="1582328926773" />
+    <state width="1360" height="161" key="GridCell.Tab.0.right/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582550501087" />
+    <state width="757" height="261" key="GridCell.Tab.1.bottom" timestamp="1580162082906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579968624517" />
+    <state width="757" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580162082906" />
+    <state width="757" height="261" key="GridCell.Tab.1.center" timestamp="1580162082906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="261" key="GridCell.Tab.1.center/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580162082906" />
+    <state width="757" height="261" key="GridCell.Tab.1.left" timestamp="1580162082906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="261" key="GridCell.Tab.1.left/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580162082906" />
+    <state width="757" height="261" key="GridCell.Tab.1.right" timestamp="1580162082906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="261" key="GridCell.Tab.1.right/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580162082906" />
+    <state x="510" y="-842" key="SettingsEditor" timestamp="1583512033401">
+      <screen x="221" y="-900" width="1600" height="860" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580145984093" />
+    <state x="510" y="-842" key="SettingsEditor/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583512033401" />
+    <state x="277" y="95" key="SettingsEditor/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1580744631276" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579968730429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1579968730429" />
   </component>
 </project>

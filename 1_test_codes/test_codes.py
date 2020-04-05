@@ -127,5 +127,7 @@ user_float = float(input("Please enter the float."))
 print(user_float)
 print((type(user_float)))
 
+print(diego)
+
 
 
