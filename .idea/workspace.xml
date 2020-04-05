@@ -370,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586128616497</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="April/2020">
+      <created>1586128731155</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586128731155</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -421,10 +428,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="22" key="#sql_integrate/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580159135856" />
-    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1586128615643">
+    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1586128730362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586128615643" />
+    <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586128730362" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1580145507565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -495,9 +502,9 @@
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580145984093" />
     <state x="510" y="-842" key="SettingsEditor/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583512033401" />
     <state x="277" y="95" key="SettingsEditor/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1580744631276" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1586128702022">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1586128759291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586128702022" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586128759291" />
   </component>
 </project>
