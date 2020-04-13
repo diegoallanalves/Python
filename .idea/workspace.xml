@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa80ee1-2ef8-4899-9682-5dd6bd67038f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1_aula/aula_1_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_aula/aula_1_print_resultado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/19_temperature_converter/Celsius_to_Fahrenheit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/20_print_something_every_3_times/print_Brasil_every_3_times.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/1_test_codes/test_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/1_test_codes/test_codes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,15 +36,37 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/1_aula" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Diego Alves\Desktop\Python_tutorial\1_aula" />
       <recent name="C:\Users\Diego Alves\Desktop\Python_tutorial\1_test_codes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula_1_print">
+  <component name="RunManager" selected="Python.print_Brasil_every_3_times">
+    <configuration name="Celsius_to_Fahrenheit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/Temperature_converter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/Temperature_converter/Celsius_to_Fahrenheit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Diego" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,27 +214,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linear_regression_TV_radio_newspaper_ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/8_linear_regression" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/8_linear_regression/linear_regression_TV_radio_newspaper_.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="linear_regression_TV_radio_newspaper_" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pizzeria" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print_Brasil_every_3_times" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,11 +243,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/18_pizzeria" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/20_print_something_every_3_times" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/18_pizzeria/pizzeria.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/20_print_something_every_3_times/print_Brasil_every_3_times.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print_Brasil_every_3_times" />
+        <item itemvalue="Python.Celsius_to_Fahrenheit" />
         <item itemvalue="Python.aula_1" />
         <item itemvalue="Python.basket_analysis" />
         <item itemvalue="Python.Diego" />
-        <item itemvalue="Python.linear_regression_TV_radio_newspaper_ (1)" />
-        <item itemvalue="Python.pizzeria" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586129119817</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="April/2020">
+      <created>1586129653072</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586129653072</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -443,10 +452,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="22" key="#sql_integrate/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580159135856" />
-    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1586129119146">
+    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1586129652288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129119146" />
+    <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129652288" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1580145507565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -455,42 +464,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580145990475" />
-    <state width="1298" height="170" key="GridCell.Tab.0.bottom" timestamp="1586129605898">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1579" height="170" key="GridCell.Tab.0.bottom" timestamp="1586781506213">
+      <screen x="173" y="-900" width="1600" height="860" />
     </state>
+    <state width="1515" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824/173.-900.1600.860@0.0.1536.824" timestamp="1586730501341" />
+    <state width="1579" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824/173.-900.1600.860@173.-900.1600.860" timestamp="1586781506213" />
     <state width="1298" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129605898" />
     <state width="1356" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583592303330" />
     <state width="1303" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583149625176" />
+    <state width="1298" height="170" key="GridCell.Tab.0.bottom/0.42.1536.782/173.-900.1600.860@0.42.1536.782" timestamp="1586470307315" />
     <state width="1303" height="161" key="GridCell.Tab.0.bottom/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1583095199477" />
     <state width="1356" height="170" key="GridCell.Tab.0.bottom/0.42.1536.782/221.-900.1600.860@221.-900.1600.860" timestamp="1583592034241" />
     <state width="1305" height="161" key="GridCell.Tab.0.bottom/0.80.1536.744/221.-900.1600.860@0.80.1536.744" timestamp="1582328926773" />
     <state width="1360" height="161" key="GridCell.Tab.0.bottom/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582550501087" />
-    <state width="1298" height="170" key="GridCell.Tab.0.center" timestamp="1586129605898">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1579" height="170" key="GridCell.Tab.0.center" timestamp="1586781506213">
+      <screen x="173" y="-900" width="1600" height="860" />
     </state>
+    <state width="1515" height="170" key="GridCell.Tab.0.center/0.0.1536.824/173.-900.1600.860@0.0.1536.824" timestamp="1586730501341" />
+    <state width="1579" height="170" key="GridCell.Tab.0.center/0.0.1536.824/173.-900.1600.860@173.-900.1600.860" timestamp="1586781506213" />
     <state width="1298" height="170" key="GridCell.Tab.0.center/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129605898" />
     <state width="1356" height="170" key="GridCell.Tab.0.center/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583592303329" />
     <state width="1303" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583149625175" />
+    <state width="1298" height="170" key="GridCell.Tab.0.center/0.42.1536.782/173.-900.1600.860@0.42.1536.782" timestamp="1586470307315" />
     <state width="1303" height="161" key="GridCell.Tab.0.center/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1583095199477" />
     <state width="1356" height="170" key="GridCell.Tab.0.center/0.42.1536.782/221.-900.1600.860@221.-900.1600.860" timestamp="1583592034241" />
     <state width="1305" height="161" key="GridCell.Tab.0.center/0.80.1536.744/221.-900.1600.860@0.80.1536.744" timestamp="1582328926773" />
     <state width="1360" height="161" key="GridCell.Tab.0.center/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582550501087" />
-    <state width="1298" height="170" key="GridCell.Tab.0.left" timestamp="1586129605898">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1579" height="170" key="GridCell.Tab.0.left" timestamp="1586781506213">
+      <screen x="173" y="-900" width="1600" height="860" />
     </state>
+    <state width="1515" height="170" key="GridCell.Tab.0.left/0.0.1536.824/173.-900.1600.860@0.0.1536.824" timestamp="1586730501341" />
+    <state width="1579" height="170" key="GridCell.Tab.0.left/0.0.1536.824/173.-900.1600.860@173.-900.1600.860" timestamp="1586781506213" />
     <state width="1298" height="170" key="GridCell.Tab.0.left/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129605898" />
     <state width="1356" height="170" key="GridCell.Tab.0.left/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583592303329" />
     <state width="1303" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583149625175" />
+    <state width="1298" height="170" key="GridCell.Tab.0.left/0.42.1536.782/173.-900.1600.860@0.42.1536.782" timestamp="1586470307315" />
     <state width="1303" height="161" key="GridCell.Tab.0.left/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1583095199477" />
     <state width="1356" height="170" key="GridCell.Tab.0.left/0.42.1536.782/221.-900.1600.860@221.-900.1600.860" timestamp="1583592034241" />
     <state width="1305" height="161" key="GridCell.Tab.0.left/0.80.1536.744/221.-900.1600.860@0.80.1536.744" timestamp="1582328926772" />
     <state width="1360" height="161" key="GridCell.Tab.0.left/0.80.1536.744/221.-900.1600.860@221.-900.1600.860" timestamp="1582550501087" />
-    <state width="1298" height="170" key="GridCell.Tab.0.right" timestamp="1586129605898">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1579" height="170" key="GridCell.Tab.0.right" timestamp="1586781506213">
+      <screen x="173" y="-900" width="1600" height="860" />
     </state>
+    <state width="1515" height="170" key="GridCell.Tab.0.right/0.0.1536.824/173.-900.1600.860@0.0.1536.824" timestamp="1586730501341" />
+    <state width="1579" height="170" key="GridCell.Tab.0.right/0.0.1536.824/173.-900.1600.860@173.-900.1600.860" timestamp="1586781506213" />
     <state width="1298" height="170" key="GridCell.Tab.0.right/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129605898" />
     <state width="1356" height="170" key="GridCell.Tab.0.right/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583592303330" />
     <state width="1303" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583149625175" />
+    <state width="1298" height="170" key="GridCell.Tab.0.right/0.42.1536.782/173.-900.1600.860@0.42.1536.782" timestamp="1586470307315" />
     <state width="1303" height="161" key="GridCell.Tab.0.right/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1583095199477" />
     <state width="1356" height="170" key="GridCell.Tab.0.right/0.42.1536.782/221.-900.1600.860@221.-900.1600.860" timestamp="1583592034241" />
     <state width="1305" height="161" key="GridCell.Tab.0.right/0.80.1536.744/221.-900.1600.860@0.80.1536.744" timestamp="1582328926773" />
@@ -517,9 +538,9 @@
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580145984093" />
     <state x="510" y="-842" key="SettingsEditor/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583512033401" />
     <state x="277" y="95" key="SettingsEditor/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1580744631276" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1586129126990">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1586129659922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129126990" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129659922" />
   </component>
 </project>
