@@ -452,9 +452,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="22" key="#sql_integrate/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580159135856" />
-    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1586129652288">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="615" y="-890" key="CommitChangelistDialog2" timestamp="1586781655087">
+      <screen x="173" y="-900" width="1600" height="860" />
     </state>
+    <state x="615" y="-890" key="CommitChangelistDialog2/0.0.1536.824/173.-900.1600.860@173.-900.1600.860" timestamp="1586781655087" />
     <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129652288" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1580145507565">
       <screen x="0" y="0" width="1536" height="824" />
@@ -542,5 +543,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129659922" />
+    <state x="691" y="-678" key="git4idea.merge.GitPullDialog" timestamp="1586781668702">
+      <screen x="173" y="-900" width="1600" height="860" />
+    </state>
+    <state x="691" y="-678" key="git4idea.merge.GitPullDialog/0.0.1536.824/173.-900.1600.860@173.-900.1600.860" timestamp="1586781668702" />
   </component>
 </project>
