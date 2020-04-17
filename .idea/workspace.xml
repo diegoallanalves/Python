@@ -4,9 +4,15 @@
     <list default="true" id="0fa80ee1-2ef8-4899-9682-5dd6bd67038f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Python/19_temperature_converter/Celsius_to_Fahrenheit.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Python/20_print_something_every_3_times/print_Brasil_every_3_times.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_aula_codigo_print/aula_1_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_aula_codigo_print/aula_1_print_resultado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_aula_codigo_print_palavras_entre_numeros/print_palavras_entre_numeros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/1_test_codes/test_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/1_test_codes/test_codes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_aula/aula_1_print.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_aula/aula_1_print_resultado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_aula_print_entre_numeros/print_palavras_entre_numeros.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -401,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586129653072</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="April/2020">
+      <created>1587161857267</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587161857267</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -452,9 +465,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="22" key="#sql_integrate/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580159135856" />
-    <state x="615" y="-890" key="CommitChangelistDialog2" timestamp="1586781727023">
-      <screen x="173" y="-900" width="1600" height="860" />
+    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1587161856304">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824/173.-900.1600.860@0.0.1536.824" timestamp="1587161856304" />
     <state x="615" y="-890" key="CommitChangelistDialog2/0.0.1536.824/173.-900.1600.860@173.-900.1600.860" timestamp="1586781727023" />
     <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129652288" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1580145507565">
@@ -539,9 +553,10 @@
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1580145984093" />
     <state x="510" y="-842" key="SettingsEditor/0.0.1536.824/221.-900.1600.860@221.-900.1600.860" timestamp="1583512033401" />
     <state x="277" y="95" key="SettingsEditor/0.42.1536.782/221.-900.1600.860@0.42.1536.782" timestamp="1580744631276" />
-    <state x="549" y="-748" key="Vcs.Push.Dialog.v2" timestamp="1586781753419">
-      <screen x="173" y="-900" width="1600" height="860" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1587161874332">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/173.-900.1600.860@0.0.1536.824" timestamp="1587161874332" />
     <state x="549" y="-748" key="Vcs.Push.Dialog.v2/0.0.1536.824/173.-900.1600.860@173.-900.1600.860" timestamp="1586781753419" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/221.-900.1600.860@0.0.1536.824" timestamp="1586129659922" />
     <state x="691" y="-678" key="git4idea.merge.GitPullDialog" timestamp="1586781668702">
